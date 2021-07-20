@@ -1,0 +1,6 @@
+type xiaomi_settings, domain;
+
+app_domain(xiaomi_settings)
+
+# Allow xiaomi_settings to write to sysfs_thermal
+allow xiaomi_settings sysfs_thermal:file w_file_perms;
