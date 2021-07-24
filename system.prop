@@ -43,7 +43,7 @@ ro.vendor.qti.sys.fw.bservice_limit=8
 ro.vendor.qti.sys.fw.bg_apps_limit=60
 
 # Netflix
-ro.netflix.bsp_rev=Q8250-19134-1
+ro.netflix.bsp_rev=Q855-16947-1
 
 # Perf
 ro.vendor.qti.core_ctl_max_cpu=4
