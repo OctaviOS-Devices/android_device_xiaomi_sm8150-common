@@ -6,6 +6,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+export DEXPREOPTAPPS=true
+
 set -e
 
 # Load extract_utils and do some sanity checks
